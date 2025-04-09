@@ -5,7 +5,7 @@ destination:
     space: cdf_cdm
     externalId: CogniteCore
     version: v1
-    destinationType: destinationType
+    destinationType: CogniteTimeSeries
   instanceSpace: 
   type: instances
 ignoreNullFields: true
