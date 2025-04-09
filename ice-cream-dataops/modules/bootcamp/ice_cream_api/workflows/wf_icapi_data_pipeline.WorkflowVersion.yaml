@@ -16,7 +16,7 @@ workflowDefinition:
     type: transformation
     parameters:
       transformation:
-        externalId: contextualize_ts_assets
+        externalId: tr_contextualize_ts_assets
         concurrencyPolicy: waitForCurrent
     retries: 3
     timeout: 3600
